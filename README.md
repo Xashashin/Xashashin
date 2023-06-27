@@ -33,11 +33,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/clion.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/WebStorm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
 
 
@@ -47,14 +44,3 @@
 ```txt
 Markdown   3 hrs 10 mins   █████████████████████████   100.00 %
 ```
-
-<!--END_SECTION:waka-->
-
-### 📃 Latest Habr Posts  
-<!-- BLOG-POST-LIST:START -->
-- [GUI для Git: подборка популярных решений](https://habr.com/ru/articles/741016/)
-- [Анонс macOS Sonoma: виджеты на рабочем столе, профили пользователей в Safari и Death Stranding](https://habr.com/ru/news/740022/)
-- [Анонс iOS 17: горизонтальный режим, новые возможности AirDrop и персонализированные стикеры](https://habr.com/ru/news/740016/)
-- [В Google Wallet появилась поддержка цифровых удостоверений личности](https://habr.com/ru/news/739998/)
-- [Вышел Rufus 4.1, совместимый с Windows Dev Kit 2023](https://habr.com/ru/news/739992/)
-<!-- BLOG-POST-LIST:END -->  
