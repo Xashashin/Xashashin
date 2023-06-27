@@ -1,18 +1,14 @@
-<h1 align="center">Hi there, I'm <a href=Xashashin target="_blank">Nemo</a> </h1>
+<h1 align="center">Hi there, I'm <a href=Xashashin target="_blank">Xashashin</a> </h1>
 <h3 align="center">Computer science student and IT news writer</h3>
 
 ![codewars](https://www.codewars.com/users/SetDec/badges/small)  
 
 
-- 🌱 I’m currently learning **QA, python, web**
+- 🌱 I’m currently learning **C++, python, Game Developing**
 
-- 📝 I regularly write articles on [**Habr (Ru)**](https://habr.com/ru/users/daniilshat/posts/)
+- 📫 How to reach me **shuxrat_naimov@mail.ru**
 
-- 📫 How to reach me **daniilshstukhin@gmail.com**
-
-- 📄 Know about my experiences [**Habr Career (Ru)**](https://career.habr.com/daniilshat)
-
-- 🌍 I speak Russian (native), English (B2)
+- 🌍 I speak Russian (native), Uzbek (native), Tadjik (native), English (B2)
 
 ### Connect with me:
 <p align="left">
