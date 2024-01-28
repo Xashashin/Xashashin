@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shuxrat_naimov@mail.ru**
 
-- 🌍 I speak Russian (native), Uzbek (native), Tadjik (native), English (B2)
+- 🌍 I speak Russian (native), English (B2)
 
 ### Connect with me:
 <p align="left">
