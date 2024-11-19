@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a href=Xashashin target="_blank">Xashashin</a> </h1>
-<h3 align="center">Computer science student and IT news writer</h3>
 
 ![codewars](https://www.codewars.com/users/SetDec/badges/small)  
 
