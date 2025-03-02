@@ -3,7 +3,7 @@
 ![codewars](https://www.codewars.com/users/SetDec/badges/small)  
 
 
-- 🌱 I’m currently learning **C++, python, Game Developing**
+- 🌱 I’m currently learning **C++/C Unreal Engine, python
 
 - 📫 How to reach me **shuxrat_naimov@mail.ru**
 
