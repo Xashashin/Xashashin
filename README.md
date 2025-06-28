@@ -21,8 +21,7 @@
 ### 📫 Contact
 
 - Email: **shuxrat_naimov@mail.ru**  
-- Telegram: [@AMERICA2077](https://t.me/AMERICA2077)  
-- VK: [vk.com/sateliteframevork](https://vk.com/sateliteframevork)
+- Telegram: [@AMERICA2077](https://t.me/AMERICA2077)
 
 ---
 
