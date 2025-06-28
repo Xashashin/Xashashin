@@ -1,45 +1,64 @@
-<h1 align="center">Hi there, I'm <a href=Xashashin target="_blank">Xashashin</a> </h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/Xashashin" target="_blank">Xashashin</a> 👨‍💻</h1>
 
-![codewars](https://www.codewars.com/users/SetDec/badges/small)  
+<p align="center">
+  Game Developer | C++ / Unreal Engine | Python | Tools Specialist
+</p>
 
+<p align="center">
+  <img src="https://www.codewars.com/users/SetDec/badges/small" alt="Codewars badge"/>
+</p>
 
-- 🌱 I’m currently learning **C++/C Unreal Engine, python
+---
 
-- 📫 How to reach me **shuxrat_naimov@mail.ru**
+### 🧩 About Me
 
-- 🌍 I speak Russian (native), English (B2)
+- 🎮 Focused on **game development** with **Unreal Engine (C++/Blueprint)**  
+- 🧠 Constantly improving in **systems programming, physics simulation, and AI logic**  
+- ⚙️ Skilled in **Python** for tooling, automation, and gameplay prototyping  
+- 🧰 Comfortable with Git, Bash, Linux, and modern IDEs  
+- 🌍 Fluent in **Russian** (native), English (B2)
 
-### Connect with me:
+### 📫 Contact
+
+- Email: **shuxrat_naimov@mail.ru**  
+- Telegram: [@AMERICA2077](https://t.me/AMERICA2077)  
+- VK: [vk.com/sateliteframevork](https://vk.com/sateliteframevork)
+
+---
+
+### 🚀 Tech Stack
+
+#### 💻 Languages
 <p align="left">
-<a href="https://t.me/AMERICA2077" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
-<a href="https://vk.com/sateliteframevork" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
-
-/></a>
-
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/C.svg" width="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/C%2B%2B.svg" width="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/python.svg" width="40" alt="Python"/>
 </p>
 
-### Languages:
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a>  </a> 
+#### 🧰 Tools & IDEs
+<p align="left">
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/linux.svg" width="40" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/Bash.svg" width="40" alt="Bash"/>
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/git.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/gitkraken.svg" width="40" alt="GitKraken"/>
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/VS-code.svg" width="40" alt="VSCode"/>
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/PyCharm.svg" width="40" alt="PyCharm"/>
+  <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/clion.svg" width="40" alt="CLion"/>
 </p>
 
-### Tools:
-<p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Bash.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/clion.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/gitkraken.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+---
 
+### 🎯 Current Goals
 
-### 🧑‍💻 This week I spent my time on
+- 📦 Building modular C++ systems inside Unreal Engine  
+- 🧪 Prototyping gameplay mechanics and tools using Python  
+- 📚 Studying multiplayer replication and optimization for UE  
+- 🧱 Creating reusable codebases and tech-stacks for indie teams  
+
+---
+
+### 📊 Weekly Activity (Wakatime)
+
 <!--START_SECTION:waka-->
-
 ```txt
 Markdown   3 hrs 10 mins   █████████████████████████   100.00 %
-```
