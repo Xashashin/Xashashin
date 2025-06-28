@@ -43,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/main/icons/clion.svg" width="40" alt="CLion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="40" alt="JetBrains Rider"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Unreal_Engine_Logo.svg" width="40" alt="Unreal Engine"/>
 </p>
 
 ---
